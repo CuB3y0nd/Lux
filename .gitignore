@@ -1,2 +1,6 @@
+*.img
+
 bochsout.txt
+
 .gdb_history
+
